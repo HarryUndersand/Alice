@@ -106,4 +106,5 @@ Bot Whartsap
 
     <script src="https://cdn.botpress.cloud/webchat/v3.5/inject.js"></script>
 <script src="https://files.bpcontent.cloud/2025/12/10/23/20251210230142-FSLKPSBI.js" defer></script>
-    
+
+    bp_bak_KHP8qQHAuQBsNDRnE4Jq3FXkqKv-Q-T-JEFI
